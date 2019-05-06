@@ -42,7 +42,7 @@ dec();
 //Floats and Parse 
 
 function makeInt(n) {
-  return n.parseInt('2');
+  return n.parseInt('30');
 }
 makeInt();
 
