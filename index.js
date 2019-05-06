@@ -46,6 +46,11 @@ function makeInt(n) {
 }
 makeInt("30");
 
+function preverseDecimal(n){
+  return parseFloat()
+}
+preverseDecimal("10.4444545");
+
 
 
 
