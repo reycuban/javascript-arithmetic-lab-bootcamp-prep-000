@@ -44,7 +44,7 @@ dec();
 function makeInt(n) {
   return parseInt();
 }
-makeInt("2", 10);
+makeInt();
 
 function preverseDecimal(n){
   return parseFloat();
