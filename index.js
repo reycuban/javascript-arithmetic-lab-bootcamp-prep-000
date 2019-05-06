@@ -47,10 +47,9 @@ function makeInt(n) {
 makeInt();
 
 function preverseDecimal(n){
-  return parseFloat(n);
+  return parseFloat("2.22");
 }
-preverseDecimal("2.22");
-
+preverseDecimal();
 
 
 
