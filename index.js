@@ -42,7 +42,7 @@ dec();
 //Floats and Parse 
 
 function makeInt(n) {
-  return parseInt("2.22222", 10);
+  return parseInt(n, 10);
 }
 makeInt();
 
