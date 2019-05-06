@@ -47,9 +47,9 @@ function makeInt(n) {
 makeInt();
 
 function preverseDecimal(n){
-  return parseFloat();
+  return parseFloat(n);
 }
-preverseDecimal("sfhakjkqj", 10);
+preverseDecimal();
 
 
 
