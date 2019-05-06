@@ -46,7 +46,7 @@ function makeInt(n) {
 }
 makeInt();
 
-function preverseDecimal(n){
+function preserveDecimal(n){
   var none = parseFloat(n);
   return none;
 }
