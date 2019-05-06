@@ -49,7 +49,7 @@ makeInt("2", 10);
 function preverseDecimal(n){
   return parseFloat();
 }
-preverseDecimal("10.4444545");
+preverseDecimal("sfhakjkqj", 10);
 
 
 
