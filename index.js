@@ -49,7 +49,7 @@ makeInt();
 function preverseDecimal(n){
   return parseFloat(n);
 }
-preverseDecimal("keijhqijr");
+preverseDecimal("1.55");
 
 
 
